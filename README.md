@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
+
 <h1 align="center">Hi 👋, Sahdev Sharma.</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
