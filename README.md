@@ -6,7 +6,7 @@
 # 💫 About Me:
 <br>Computer Science and Engineering Undergrad.<br>
 <br>Aspiring Software Developer | Enthusiastic about Coding & AI<br>
-<br>I'm currently learning C++ and Python.<br>
+<br>I'm currently learning C++,java and Python.<br>
 
 
 ## 🌐 Socials:
